@@ -1,0 +1,32 @@
+body{
+	background:url("images/homepage_background.jpg") no-repeat fixed;		
+	background-size: 230vh 100vh;
+	margin:0; padding:0;
+}
+html{
+	margin:0; padding:0;	
+}
+
+/*making container fluid*/
+.container-fluid{	
+	margin: auto;
+	background-color: rgba(100,100,100, 0.9 );	
+	height: 120vh;
+}
+
+/*Navbar*/
+img.logo{
+	border-radius: 50%;
+	width:30%; height:100%; 
+	margin: auto;	
+}
+
+/*Titles*/
+#newRow-title h1{
+	margin: auto;	
+}
+#newRow-subtitle p{
+	margin: auto;
+	font-weight: bold;
+	font-size: 300vh;
+}

@@ -1,0 +1,61 @@
+body{
+	background:url("images/homepage_background.jpg") no-repeat fixed;		
+	background-size: 230vh 100vh;
+	margin:0; padding:0;
+}
+html{
+	margin:0; padding:0;	
+}
+.container-fluid{	
+	margin: auto;
+	background-color: rgba(102,153,204, 0.4 );	
+	height: 120vh;
+}
+
+/*Navbar*/
+img.logo{
+	border-radius: 50%;
+	width:30%; height:100%; 
+	margin: auto;	
+}
+
+/*Titles*/
+#newRow-title h1{
+	margin: auto;
+}
+#newRow-subtitle p{
+	margin: auto;
+}
+
+/*Carousel*/
+#indicators{
+	height: 500px;
+}
+.carousel-item img {
+    width: 65%;
+    height: 400px;
+    margin-left: 15%;
+}
+.carousel-item p{
+	background-color: lightblue;
+	color: blue; 
+	font-weight: bold;
+	text-align: center;
+} 
+
+/*Tickets*/
+#newRow-ticket_subtitle h3{
+	margin: auto;		
+	color: red;	
+	font-weight: bold;	
+	font-size: 30px;
+}
+#newRow-ticket_button button{
+	margin: auto;
+}
+#newRow-ticket_button button a{
+	color: red;
+	padding: 5em;
+	font-size: 20px;
+	font-weight: bold;	
+}
