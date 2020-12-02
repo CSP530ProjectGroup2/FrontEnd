@@ -7,8 +7,7 @@ html{
 
 /*making container fluid*/
 .container-fluid{	
-	margin: auto;
-	background-color: rgba(100,100,100, 0.9 );	
+	margin: auto;	
 	height: 120vh;
 	border-radius: 9;
 }
