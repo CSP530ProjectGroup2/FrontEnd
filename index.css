@@ -19,11 +19,6 @@ html{
 	margin: auto;
 	background-color: rgba(102,153,204, 0.4 );	
 }
-img{
-	border-radius: 50%;
-	width:30%; height:100%; 
-	margin: auto;	
-}
 
 #secondRow{
 	background-color: rgba(102,153,204, 0.4 );
