@@ -1,6 +1,5 @@
 body{
-	background:url("images/homepage_background.jpg") no-repeat fixed;		
-	background-size: 230vh 100vh;
+	background-color: #d3d3d3;
 	margin:0; padding:0;
 }
 html{
