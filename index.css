@@ -6,11 +6,7 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-body{
-	background:url("images/homepage_background.jpg") no-repeat fixed;		
-	background-size: 230vh 100vh;
-	margin:0; padding:0;
-}
+
 html{
 	margin:0; padding:0;	
 }
