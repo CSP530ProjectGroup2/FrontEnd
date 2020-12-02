@@ -116,3 +116,9 @@ header .link-icons a span {
 	top: 22px;
 	right: 0;
 }
+
+.content-wrapper {
+	width: 1050px;
+	margin: 0 auto;	
+}
+
