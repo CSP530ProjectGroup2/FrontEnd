@@ -1,5 +1,4 @@
-body{
-	background-color: #d3d3d3;
+body{	
 	margin:0; padding:0;
 }
 html{
@@ -11,6 +10,7 @@ html{
 	margin: auto;
 	background-color: rgba(100,100,100, 0.9 );	
 	height: 120vh;
+	border-radius: 9;
 }
 
 /*Navbar*/
