@@ -42,6 +42,10 @@ html{
 	font-weight: bold;
 }
 
+.a:hover {
+text-decoration: none;
+}
+
 header {
 	border-bottom: 1px solid #EEEEEE;
 }
