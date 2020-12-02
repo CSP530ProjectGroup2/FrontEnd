@@ -72,6 +72,7 @@ header nav a {
 	margin: 0 10px;
 }
 header nav a:hover {
+	text-decoration: none !important
 	border-bottom: 1px solid #07c600;
 }
 header .link-icons {
