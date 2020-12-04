@@ -31,7 +31,8 @@ img.logo{
 .carousel-item img {
     width: 30%;
     height: 400px;
-    margin-left: 35%;
+    margin-left: 35%;		
+
 }
 .carousel-item p{
 	background-color: lightblue;
