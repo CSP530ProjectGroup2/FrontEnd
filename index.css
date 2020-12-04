@@ -42,12 +42,6 @@ html{
 	font-weight: bold;
 }
 
-a:hover {
-  text-decoration: none;
-  color: #555555;
-}
-
-
 
 header {
 	border-bottom: 1px solid #EEEEEE;
@@ -62,6 +56,11 @@ header h1 {
 	font-size: 20px;
 	margin: 0;
 	padding: 24px 0;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #555555;
 }
 
 header nav {
