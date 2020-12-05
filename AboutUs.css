@@ -43,17 +43,18 @@ header h1 {
     margin: 0;
     padding: 24px 0;
 }
+
+a:hover {
+  text-decoration: none;
+  color: #555555;
+}
+
 header nav {
     display: flex;
     flex-grow: 1;
     flex-basis: 0;
     justify-content: center;
     align-items: center;
-}
-
-a:hover {
-  text-decoration: none;
-  color: #555555;
 }
 
 header nav a {
