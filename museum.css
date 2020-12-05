@@ -47,8 +47,8 @@ img.logo{
 	height: 500px;
 }
 .carousel-item img {
-    width: 1800px;
-    height: 300px;
+    width: 40%;
+    height: 40%;
     margin-left: 15%;		
 
 }
