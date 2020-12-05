@@ -8,9 +8,15 @@
 h1, h2, h3, h4, h5 {
 	color: #394352;
 }
-body{	
-	margin:0; padding:0;
+body {
+	position: relative;
+	min-height: 100%;
+	color: #555555;
+	background-color: #FFFFFF;
+	margin: 0;
+	padding-bottom: 100px; /* Same height as footer */
 }
+
 html{
 	margin:0; padding:0;	
 }
