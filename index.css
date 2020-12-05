@@ -6,6 +6,10 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+h1, h2, h3, h4, h5 {
+	color: #394352;
+}
+
 
 html{
 	margin:0; padding:0;	
