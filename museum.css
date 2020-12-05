@@ -44,7 +44,7 @@ img.logo{
 
 /*Carousel*/
 #indicators{
-	height: 650px;
+/*	height: 650px;*/
 }
 .carousel-item img {
     width: 40%;
