@@ -137,7 +137,7 @@ header .link-icons a span {
 .featured {
 	display: flex;
 	flex-direction: column;
-	background-image: url(imgs/Featured-Image.gif);
+	background-image: url(images/home.jpg);
 	background-repeat: no-repeat;	
 	object-fit:cover;
 	height: 500px;
