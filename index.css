@@ -134,3 +134,16 @@ header .link-icons a span {
 	margin: 0 auto;	
 }
 
+.featured {
+	display: flex;
+	flex-direction: column;
+	background-image: url(imgs/Featured-Image.gif);
+	background-repeat: no-repeat;	
+	object-fit:cover;
+	height: 500px;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+
